@@ -328,5 +328,5 @@ button:hover {
 
 footer{
     position: absolute;
-    margin: auto;
+    margin: auto 0;
 }
