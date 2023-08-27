@@ -327,6 +327,7 @@ button:hover {
 }
 
 footer{
-    position: absolute;
-    margin: auto 0;
+    margin: auto ;
+    margin-top: 10px;
+   text-align: center;
 }
